@@ -1,5 +1,5 @@
-## DATE: 05-02-2026
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## DATE: 05-02-2026
 ## AIM:
 To write a python program to perform sliding window protocol.
 ## ALGORITHM:
